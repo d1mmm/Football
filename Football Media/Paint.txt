@@ -1,0 +1,9 @@
+/*private: System::Void label2_Paint(System::Object^ sender, System::Windows::Forms::PaintEventArgs^ e) {
+		e->Graphics->Clear(Color::Indigo);
+		e->Graphics->RotateTransform(-90);
+		SizeF textSize = e->Graphics->MeasureString(label2->Text, label2->Font);
+		label2->Width = (int)textSize.Height + 2;
+		label2->Height = (int)textSize.Width + 2;
+		e->Graphics->TranslateTransform(-label2->Height / 2, label2->Width / 2);
+		e->Graphics->DrawString(label2->Text, label2->Font, Brushes::Indigo, -(textSize.Width / 2), -(textSize.Height / 2));
+	}*/

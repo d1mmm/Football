@@ -1,0 +1,16 @@
+﻿  Home.cpp
+  KeyForm.cpp
+  LanguageForm.cpp
+  LoadingForm.cpp
+  ResultForm.cpp
+D:\IT Projects\Football2\Football2\ResultForm.cpp(19,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\IT Projects\Football2\Football2\ResultForm.cpp(23,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\IT Projects\Football2\Football2\ResultForm.cpp(27,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\IT Projects\Football2\Football2\ResultForm.cpp(31,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\IT Projects\Football2\Football2\ResultForm.cpp(35,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\IT Projects\Football2\Football2\ResultForm.cpp(39,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  StartingForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Home.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Football2.vcxproj -> D:\IT Projects\Football2\Debug\Football2.exe

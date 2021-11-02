@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2182,5): warning MSB3245: Не удалось разрешить данную ссылку. Не удалось обнаружить сборку "AxInterop.WMPLib, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a". Убедитесь, что сборка существует на диске. Если данная ссылка требуется в коде, это может вызвать ошибки компиляции.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2182,5): warning MSB3245: Не удалось разрешить данную ссылку. Не удалось обнаружить сборку "WMPLib, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a". Убедитесь, что сборка существует на диске. Если данная ссылка требуется в коде, это может вызвать ошибки компиляции.
+  COM-ссылка "WMPLib.1.0" является сборкой взаимодействия для элемента ActiveX "AxWMPLib.1.0", но была помечена на компоновку компилятором флагом /link. Эта COM-ссылка будет считаться ссылкой и не будет скомпонована.
+  LoadingForm.cpp
+  StartingForm.cpp
+  Создание кода...
+  LoadingForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Football2.vcxproj -> D:\Dima\ITProjects\Football2\Release\Football2.exe
