@@ -1,6 +1,6 @@
 /Football2/Debug/*
-/Football2/.vs/Football2/v16/**.*/
-/Football2/FootballMedia/*
+/Football2/.vs/**.*
+/Football2/Football Media/*
 /Football2/Release/*
 /Football2/Football2/Release/*
 /Football2/Football2/Debug/*
