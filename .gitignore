@@ -1,0 +1,12 @@
+/Football2/Debug/*
+/Football2/.vs/**.
+/Football2/Football Media/*
+/Football2/Release/*
+/Football2/Football2/Release/*
+/Football2/Football2/Debug/*
+/Football2/Football2/*.resx
+/Football2/Football2/*.aps
+/Football2/Football2/*.vcxproj
+/Football2/Football2/*.rc
+/Football2/Football2/*.vcxproj.filters
+/Football2/Football2/*.ico
