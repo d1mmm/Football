@@ -1,9 +1,9 @@
-﻿/Debug
-/Football2/.vs
-/Football2/FootballMedia
-/Football2/Release
-/Football2/Football2/Release
-/Football2/Football2/Debug
+﻿/Football2/Debug/*
+/Football2/.vs/*
+/Football2/FootballMedia/*
+/Football2/Release/*
+/Football2/Football2/Release/*
+/Football2/Football2/Debug/*
 /Football2/Football2/*.resx
 /Football2/Football2/*.aps
 /Football2/Football2/*.vcxproj
