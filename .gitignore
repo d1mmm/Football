@@ -1,5 +1,5 @@
 /Football2/Debug/*
-/Football2/.vs/**.*
+/Football2/.vs/**.
 /Football2/Football Media/*
 /Football2/Release/*
 /Football2/Football2/Release/*
