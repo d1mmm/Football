@@ -1,5 +1,0 @@
-D:\Dima\ITProjects\Football2\Football2\Release\Football2.vcxproj.ResolveComReference.cache
-D:\Dima\ITProjects\Football2\Football2\Release\Football2.LoadingForm.resources
-D:\Dima\ITProjects\Football2\Football2\Release\Football2.ResultForm.resources
-D:\Dima\ITProjects\Football2\Football2\Release\Football2.StartingForm.resources
-D:\Dima\ITProjects\Football2\Football2\Release\Football2.vcxproj.GenerateResource.cache
